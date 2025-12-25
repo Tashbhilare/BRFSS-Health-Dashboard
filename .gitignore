@@ -1,0 +1,18 @@
+# R files
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# Large data files (don't upload to GitHub)
+*.parquet
+
+# Deployment files
+rsconnect/
+
+# Local preprocessing scripts
+preprocess_for_deployment.R
+optimize_for_1gb_deployment.R
+
+# Mac files
+.DS_Store
