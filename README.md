@@ -5,7 +5,6 @@
 [![Live Demo](https://img.shields.io/badge/Live_Demo-View_Dashboard-blue?style=for-the-badge)](https://tanishbhilare.shinyapps.io/BRFSS-health-dashboard/)
 [![R](https://img.shields.io/badge/R-4.0+-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![Shiny](https://img.shields.io/badge/Shiny-Dashboard-blue?style=for-the-badge&logo=r&logoColor=white)](https://shiny.rstudio.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 **An interactive R Shiny dashboard for visualizing CDC BRFSS health data across multiple demographic dimensions**
 
