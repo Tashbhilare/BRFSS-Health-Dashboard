@@ -10,7 +10,7 @@
 
 [Features](#features) • [Demo](#live-demo) • [Installation](#installation) • [Technologies](#technologies) • [Architecture](#architecture)
 
-![Dashboard Preview](screenshot.png)
+![Dashboard Preview](Dasdboard.png)
 
 </div>
 
