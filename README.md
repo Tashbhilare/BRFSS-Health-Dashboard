@@ -300,7 +300,7 @@ Contributions, issues, and feature requests are welcome!
 
 ### Tanish Bhilare
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Tashbhilare)
+### Mohit Sharma
 
 </div>
 
