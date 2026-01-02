@@ -300,7 +300,7 @@ Contributions, issues, and feature requests are welcome!
 
 ### Tanish Bhilare
 
-### Mohit Sharma
+#### Mohit Sharma
 
 </div>
 
